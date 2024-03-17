@@ -108,7 +108,7 @@ export default function Home() {
               />
               <DynamicSpeakerCard
                 backgroundImageUrl="/images/chair_person3.PNG"
-                name="John Doe"
+                name="Mr. Mohamed Shabani Mande"
               />
               <DynamicSpeakerCard
                 backgroundImageUrl="/images/chair_person4.JPG"
