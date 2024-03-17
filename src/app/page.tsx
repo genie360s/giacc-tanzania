@@ -1,7 +1,7 @@
-import Image from "next/image";
+
 import Link from "next/link";
 import Navbar from "./Components/Navbar";
-import SpeakerCard from "./Components/SpeakerCard";
+
 import HalfBackground from "./Components/HalfBackground";
 import DynamicSpeakerCard from "./Components/DynamicSpeakerCard";
 export default function Home() {
