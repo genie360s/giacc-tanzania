@@ -104,7 +104,7 @@ export default function Home() {
               />
               <DynamicSpeakerCard
                 backgroundImageUrl="/images/chair_person2.PNG"
-                name="John Doe"
+                name="Eng. Laurent Ndalichako"
               />
               <DynamicSpeakerCard
                 backgroundImageUrl="/images/chair_person3.PNG"
@@ -112,7 +112,7 @@ export default function Home() {
               />
               <DynamicSpeakerCard
                 backgroundImageUrl="/images/chair_person4.JPG"
-                name="John Doe"
+                name="Eng. Elias Ndalichako"
               />
               <DynamicSpeakerCard
                 backgroundImageUrl="/images/chair_person5.JPG"
