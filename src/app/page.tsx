@@ -108,7 +108,7 @@ export default function Home() {
               />
               <DynamicSpeakerCard
                 backgroundImageUrl="/images/chair_person3.PNG"
-                name="Mr. Mohamed Shabani Mande"
+                name="Dr. Lissah Mponjoli"
               />
               <DynamicSpeakerCard
                 backgroundImageUrl="/images/chair_person4.JPG"
@@ -117,6 +117,10 @@ export default function Home() {
               <DynamicSpeakerCard
                 backgroundImageUrl="/images/chair_person5.JPG"
                 name="Eng. Fatuma Mwamba "
+              />
+              <DynamicSpeakerCard
+                backgroundImageUrl="/images/chair_person6.JPG"
+                name="Mr. Mohamed Shabani Mande "
               />
             </div>
           </div>
