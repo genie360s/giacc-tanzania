@@ -39,7 +39,7 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="mt-24  flex flex-col gap-8 items-start ">
+          <div className="mt-16  flex flex-col gap-8 items-start ">
             <div className="col  p-1">
               <div className="text-3xl font-bold text-blue-900">
                 Our Objectives
@@ -62,24 +62,24 @@ export default function Home() {
               <div className="col ml-4">
                 <p className="font-normal leading-relaxed text-justify text-lg mt-8">
                   {" "}
-                  <i className="bi bi-opencollective"></i> &nbsp; Raise
+                  <i className="bi bi-dot text-3xl"></i>&nbsp;Raise
                   awareness of corruption.{" "}
                 </p>
                 <p className="font-normal leading-relaxed text-justify text-lg mt-2">
                   {" "}
-                  <i className="bi bi-opencollective"></i> &nbsp; Promote the
+                  <i className="bi bi-dot text-3xl"></i>&nbsp;Promote the
                   development of anti-corruption best practices through the
                   participation in and organization of targeted initiatives.{" "}
                 </p>
                 <p className="font-normal leading-relaxed text-justify text-lg mt-2">
                   {" "}
-                  <i className="bi bi-opencollective"></i> &nbsp; Promote the
+                  <i className="bi bi-dot text-3xl"></i>&nbsp;Promote the
                   implementation of anti-corruption measures as an integral part
                   of government, corporate and project management.{" "}
                 </p>
                 <p className="font-normal leading-relaxed text-justify text-lg mt-2">
                   {" "}
-                  <i className="bi bi-opencollective"></i> &nbsp;To work with
+                  <i className="bi bi-dot text-3xl"></i>&nbsp;To work with
                   public and private sector organizations world-wide to prevent
                   corruption and put in place effective &nbsp; &nbsp; &nbsp;
                   &nbsp; anti-corruption procedures in accordance with ISO 37001
@@ -87,7 +87,7 @@ export default function Home() {
                 </p>
                 <p className="font-normal leading-relaxed text-justify text-lg mt-2">
                   {" "}
-                  <i className="bi bi-opencollective"></i> &nbsp; Conduct
+                  <i className="bi bi-dot text-3xl"></i>&nbsp;Conduct
                   baseline survey and research to ensure good practice approach
                   to effectively address corruption challenges.
                 </p>
@@ -102,27 +102,33 @@ export default function Home() {
             </div>
             <div className="mt-8 grid lg:grid-cols-3 gap-8 lg:grid-rows-2 md:grid-cols-2 md:grid-rows-3 sm:grid sm:grid-cols-1 sm:grid-rows-5 sm:place-items-center max-[640px]:place-items-center">
               <DynamicSpeakerCard
-                backgroundImageUrl="/images/chair_person1.PNG"
-                name="Eng. Shabani Mande"
-              />
-              <DynamicSpeakerCard
                 backgroundImageUrl="/images/chair_person2.PNG"
-                name="Eng. Laurent Ndalichako"
+                title="Executive  Chairman"
+                name="Eng. Laurent Lazaro Ndalichako"
               />
               <DynamicSpeakerCard
                 backgroundImageUrl="/images/chair_person3.PNG"
-                name="Dr. Lissah Mponjoli"
+                title="General Secretary"
+                name="Dr. Lissah Jepherson Mponjoli"
+              />
+              <DynamicSpeakerCard
+                backgroundImageUrl="/images/chair_person1.PNG"
+                title="Finace & Admin. Manager"
+                name="Eng. Shabani Ramadhani Mande"
               />
               <DynamicSpeakerCard
                 backgroundImageUrl="/images/chair_person4.JPG"
-                name="Eng. Elias Ndalichako"
+                title="Member & Legal Advisor"
+                name="Adv. Elias Laurent Ndalichako"
               />
               <DynamicSpeakerCard
                 backgroundImageUrl="/images/chair_person5.JPG"
-                name="Eng. Fatuma Mwamba "
+                title="Member & Head of ICT"
+                name="Eng. Fatuma Hamisi Mwamba "
               />
               <DynamicSpeakerCard
                 backgroundImageUrl="/images/chair_person6.JPG"
+                title="Member & Finance officer"
                 name="Mr. Mohamed Shabani Mande "
               />
             </div>
