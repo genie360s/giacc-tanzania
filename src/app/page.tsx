@@ -1,4 +1,3 @@
-
 import Link from "next/link";
 import Navbar from "./Components/Navbar";
 
@@ -8,7 +7,7 @@ export default function Home() {
   return (
     <>
       <HalfBackground />
-      <main className="flex min-h-screen flex-col items-center justify-between px-24 pt-24 pb-2 text-black">
+      <main className="flex min-h-screen flex-col items-center justify-between px-24 pt-24 pb-2 text-gray-950">
         <div className="z-10 max-w-5xl   items-center  text-sm  ">
           <Navbar />
 
@@ -20,13 +19,17 @@ export default function Home() {
             </div>
             <div className="col p-1 ">
               <p className="font-normal text-lg leading-relaxed text-justify">
-                GIACC-Tanzania is an independent not-for-profit organisation
-                based in Dar es salaam, Tanzania. It is an Affiliate of
-                GIACC-International. GIACC-Tanzania believes that corruption can
-                only be prevented and dealt with if both public and private
-                sector organisations implement effective anti-corruption
-                measures as a necessary and core part of their day-to-day
-                corporate, procurement and project management.
+                GIACC Tanzania is an independent nonprofit organization and an
+                affiliate of GIACC International dedicated to combating
+                corruption in the infrastructure sector in Tanzania, founded in
+                2023. At GIACC Tanzania, we believe that corruption can only be
+                prevented and dealt with if public and private sector
+                organizations implement effective anti-corruption measures, as
+                necessary in the construction industry. We also strive to
+                promote transparency, integrity, and accountability in all
+                aspects of infrastructure development, fostering sustainable
+                growth, and ensuring equitable access to essential services for
+                all Tanzanians.
                 <br />
                 It was founded in 2023 by Eng. Laurent Ndalichako, Eng. Shabani
                 Mande and other leading industrial professionals. In 2023, it
