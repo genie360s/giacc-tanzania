@@ -8,8 +8,9 @@ export default function SpeakerCard({ backgroundImageUrl, name, title }: { backg
                 style={{ backgroundImage: `url(${backgroundImageUrl})` }}
             >
                 <div className="rounded-lg bg-gray-200 h-[4.5em] w-[21em] m-auto mb-[2.3em]  py-2 text-slate-800 grid place-content-center">
-                <span className="font-medium text-lg text-blue-900 text-center font-bold  ">{title}</span>
+                
                     <span className="font-medium text-lg text-blue-900  ">{name}</span>
+                    <span className="font-medium text-sm text-blue-900 text-center font-bold  ">{title}</span>
                 </div>
             </div>
         </>

@@ -103,32 +103,32 @@ export default function Home() {
             <div className="mt-8 grid lg:grid-cols-3 gap-8 lg:grid-rows-2 md:grid-cols-2 md:grid-rows-3 sm:grid sm:grid-cols-1 sm:grid-rows-5 sm:place-items-center max-[640px]:place-items-center">
               <DynamicSpeakerCard
                 backgroundImageUrl="/images/chair_person2.PNG"
-                title="Executive  Chairman"
+                title="Board Executive  Chairman"
                 name="Eng. Laurent Lazaro Ndalichako"
               />
               <DynamicSpeakerCard
                 backgroundImageUrl="/images/chair_person3.PNG"
-                title="General Secretary"
+                title="Board Memmber & General Secretary"
                 name="Dr. Lissah Jepherson Mponjoli"
               />
               <DynamicSpeakerCard
                 backgroundImageUrl="/images/chair_person1.PNG"
-                title="Finace & Admin. Manager"
+                title="Board Member & Finance & Admin  Manager"
                 name="Eng. Shabani Ramadhani Mande"
               />
               <DynamicSpeakerCard
                 backgroundImageUrl="/images/chair_person4.JPG"
-                title="Member & Legal Advisor"
+                title="Board Member & Legal Advisor"
                 name="Adv. Elias Laurent Ndalichako"
               />
               <DynamicSpeakerCard
-                backgroundImageUrl="/images/chair_person5.JPG"
-                title="Member & Head of ICT"
+                backgroundImageUrl="/images/fatma.jpeg"
+                title="Board Member & Head of ICT"
                 name="Eng. Fatuma Hamisi Mwamba "
               />
               <DynamicSpeakerCard
                 backgroundImageUrl="/images/chair_person6.JPG"
-                title="Member & Finance officer"
+                title="Board Member & Finance officer"
                 name="Mr. Mohamed Shabani Mande "
               />
             </div>
