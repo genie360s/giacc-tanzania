@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
       <HalfBackground />
-      <main className="flex min-h-screen flex-col items-center justify-between px-24 pt-24 pb-2">
+      <main className="flex min-h-screen flex-col items-center justify-between px-24 pt-24 pb-2 text-black">
         <div className="z-10 max-w-5xl   items-center  text-sm  ">
           <Navbar />
 
