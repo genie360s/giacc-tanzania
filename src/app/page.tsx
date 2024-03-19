@@ -62,24 +62,24 @@ export default function Home() {
               <div className="col ml-4">
                 <p className="font-normal leading-relaxed text-justify text-lg mt-8">
                   {" "}
-                  <i className="bi bi-dot text-3xl"></i>&nbsp;Raise
+                  <i className="bi bi-square-fill  text-[10ppx]"></i>&nbsp;Raise
                   awareness of corruption.{" "}
                 </p>
                 <p className="font-normal leading-relaxed text-justify text-lg mt-2">
                   {" "}
-                  <i className="bi bi-dot text-3xl"></i>&nbsp;Promote the
+                  <i className="bi bi-square-fill  text-[10ppx]"></i>&nbsp;Promote the
                   development of anti-corruption best practices through the
                   participation in and organization of targeted initiatives.{" "}
                 </p>
                 <p className="font-normal leading-relaxed text-justify text-lg mt-2">
                   {" "}
-                  <i className="bi bi-dot text-3xl"></i>&nbsp;Promote the
+                  <i className="bi bi-square-fill  text-[10px]"></i>&nbsp;Promote the
                   implementation of anti-corruption measures as an integral part
                   of government, corporate and project management.{" "}
                 </p>
                 <p className="font-normal leading-relaxed text-justify text-lg mt-2">
                   {" "}
-                  <i className="bi bi-dot text-3xl"></i>&nbsp;To work with
+                  <i className="bi bi-square-fill  text-[10px]"></i>&nbsp;To work with
                   public and private sector organizations world-wide to prevent
                   corruption and put in place effective &nbsp; &nbsp; &nbsp;
                   &nbsp; anti-corruption procedures in accordance with ISO 37001
@@ -87,7 +87,7 @@ export default function Home() {
                 </p>
                 <p className="font-normal leading-relaxed text-justify text-lg mt-2">
                   {" "}
-                  <i className="bi bi-dot text-3xl"></i>&nbsp;Conduct
+                  <i className="bi bi-square-fill  text-[10px]"></i>&nbsp;Conduct
                   baseline survey and research to ensure good practice approach
                   to effectively address corruption challenges.
                 </p>
