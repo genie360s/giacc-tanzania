@@ -31,10 +31,9 @@ export default function Home() {
                 growth, and ensuring equitable access to essential services for
                 all Tanzanians.
                 <br />
-                It was founded in 2023 by Eng. Laurent Ndalichako, Eng. Shabani
-                Mande and other leading industrial professionals. In 2023, it
-                was re-launched under the leadership of Eng. Laurent Ndalichako
-                as GIACC-Tanzania Executive Chairman.
+                It was founded and relaunched in 2023 under the leadership of
+                Eng. Laurent Ndalichako as GICCA-Tanzania Executive Chairman,
+                Eng. Shabani Mande, and other leading industrial professionals.
               </p>
             </div>
           </div>
@@ -67,29 +66,32 @@ export default function Home() {
                 </p>
                 <p className="font-normal leading-relaxed text-justify text-lg mt-2">
                   {" "}
-                  <i className="bi bi-square-fill  text-[10px]"></i>&nbsp;Promote the
-                  development of anti-corruption best practices through the
-                  participation in and organization of targeted initiatives.{" "}
+                  <i className="bi bi-square-fill  text-[10px]"></i>
+                  &nbsp;Promote the development of anti-corruption best
+                  practices through the participation in and organization of
+                  targeted initiatives.{" "}
                 </p>
                 <p className="font-normal leading-relaxed text-justify text-lg mt-2">
                   {" "}
-                  <i className="bi bi-square-fill  text-[10px]"></i>&nbsp;Promote the
-                  implementation of anti-corruption measures as an integral part
-                  of government, corporate and project management.{" "}
+                  <i className="bi bi-square-fill  text-[10px]"></i>
+                  &nbsp;Promote the implementation of anti-corruption measures
+                  as an integral part of government, corporate and project
+                  management.{" "}
                 </p>
                 <p className="font-normal leading-relaxed text-justify text-lg mt-2">
                   {" "}
-                  <i className="bi bi-square-fill  text-[10px]"></i>&nbsp;To work with
-                  public and private sector organizations world-wide to prevent
-                  corruption and put in place effective &nbsp; &nbsp; &nbsp;
-                  &nbsp; anti-corruption procedures in accordance with ISO 37001
-                  Anti-Bribery Management Systems Standard.
+                  <i className="bi bi-square-fill  text-[10px]"></i>&nbsp;To
+                  work with public and private sector organizations world-wide
+                  to prevent corruption and put in place effective &nbsp; &nbsp;
+                  &nbsp; &nbsp; anti-corruption procedures in accordance with
+                  ISO 37001 Anti-Bribery Management Systems Standard.
                 </p>
                 <p className="font-normal leading-relaxed text-justify text-lg mt-2">
                   {" "}
-                  <i className="bi bi-square-fill  text-[10px]"></i>&nbsp;Conduct
-                  baseline survey and research to ensure good practice approach
-                  to effectively address corruption challenges.
+                  <i className="bi bi-square-fill  text-[10px]"></i>
+                  &nbsp;Conduct baseline survey and research to ensure good
+                  practice approach to effectively address corruption
+                  challenges.
                 </p>
               </div>
             </div>
