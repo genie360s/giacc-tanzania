@@ -117,14 +117,14 @@ export default function Home() {
                 name="Eng. Shabani Ramadhani Mande"
               />
               <DynamicSpeakerCard
-                backgroundImageUrl="/images/chair_person4.JPG"
-                title="Board Member & Legal Advisor"
-                name="Adv. Elias Laurent Ndalichako"
-              />
-              <DynamicSpeakerCard
                 backgroundImageUrl="/images/fatma.jpeg"
                 title="Board Member & Head of ICT"
                 name="Eng. Fatuma Hamisi Mwamba "
+              />
+              <DynamicSpeakerCard
+                backgroundImageUrl="/images/chair_person4.JPG"
+                title="Board Member & Legal Advisor"
+                name="Adv. Elias Laurent Ndalichako"
               />
               <DynamicSpeakerCard
                 backgroundImageUrl="/images/chair_person6.JPG"
