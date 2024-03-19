@@ -62,12 +62,12 @@ export default function Home() {
               <div className="col ml-4">
                 <p className="font-normal leading-relaxed text-justify text-lg mt-8">
                   {" "}
-                  <i className="bi bi-square-fill  text-[10ppx]"></i>&nbsp;Raise
+                  <i className="bi bi-square-fill  text-[10px]"></i>&nbsp;Raise
                   awareness of corruption.{" "}
                 </p>
                 <p className="font-normal leading-relaxed text-justify text-lg mt-2">
                   {" "}
-                  <i className="bi bi-square-fill  text-[10ppx]"></i>&nbsp;Promote the
+                  <i className="bi bi-square-fill  text-[10px]"></i>&nbsp;Promote the
                   development of anti-corruption best practices through the
                   participation in and organization of targeted initiatives.{" "}
                 </p>
