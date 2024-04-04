@@ -31,8 +31,8 @@ export default function Home() {
                 growth, and ensuring equitable access to essential services for
                 all Tanzanians.
                 <br />
-                It was founded and relaunched in 2023 under the leadership of
-                Eng. Laurent Ndalichako as GICCA-Tanzania Executive Chairman,
+                It was founded and launched in 2023 under the leadership of
+                Eng. Laurent Ndalichako as GIACC-Tanzania Executive Chairman,
                 Eng. Shabani Mande, and other leading industrial professionals.
               </p>
             </div>
@@ -110,7 +110,7 @@ export default function Home() {
               />
               <DynamicSpeakerCard
                 backgroundImageUrl="/images/chair_person3.PNG"
-                title="Board Memmber & General Secretary"
+                title="Board Member & General Secretary"
                 name="Dr. Lissah Jepherson Mponjoli"
               />
               <DynamicSpeakerCard
@@ -148,13 +148,13 @@ export default function Home() {
               <p className="font-normal text-lg text-center p-4 text-gray-200">
                 {" "}
                 Email : <i className="bi bi-envelope"></i>{" "}
-                <Link href="mailto:info@giacc.or.go">info@giacc.or.go</Link>
+                <Link href="mailto:info@giacctanzania.org.tz">info@giacctanzania.org.tz</Link>
               </p>
             </div>
           </div>
           <div className="mt-12   flex flex-col items-center  text-center relative ">
             <p className="font-normal text-sm text-center absolute bottom-0">
-              Contact : info@giacc.or.go | Copyrights Reserved 2023{" "}
+              Contact : info@giacctanzania.org.tz | Copyrights Reserved 2023{" "}
             </p>
           </div>
         </div>
